@@ -56,7 +56,7 @@ const todoList = () => {
       // ..
       // ..
       // return OUTPUT_STRING
-      OUTPUT_STRING=todos.all;
+      OUTPUT_STRING=array.all;
       return OUTPUT_STRING;
     }
   
